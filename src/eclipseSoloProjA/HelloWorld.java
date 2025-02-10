@@ -6,7 +6,7 @@ public class HelloWorld {
 		System.out.println("Hello github project"); 
 		System.out.println("Another println!");
 
-		System.out.println("ProgrammerOne did this");
+		System.out.println("Programmer 1 did this");
 
 	}
 
